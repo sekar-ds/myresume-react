@@ -1,0 +1,10 @@
+.top-content{
+    background:url('../assets/1673936959796.jpeg');
+    height: 100vh;
+    padding:130px;
+    display: flex;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    box-shadow: inset 0 0 0 2000px rgba(0,0,0,0.5);   
+}

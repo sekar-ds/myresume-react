@@ -1,0 +1,91 @@
+.top-content{
+    color:white;
+    height: 100vh;
+    
+}
+.topcontent-container{
+    position: absolute;
+    top:300px;
+    right:150px;
+    
+}
+.topcontent-container p{
+    
+    letter-spacing: 8px;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:lightblue;
+    padding-top: 10px;
+
+}
+.topcontent-container a button{
+    margin-bottom: 30px;
+    text-align: left;
+    margin-right: 5px;
+    border-radius: 3px;
+    outline: none;
+
+}
+.topcontent-container h1{
+    font-size: 35px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.downloadbutton{
+    background-color:darkslategrey;
+    font-size: 14px;
+    padding: 7px 10px;
+    cursor: pointer;
+    border: none;
+    margin-top: 10px;
+}
+.workbutton{
+   color:white;
+   border: 1px solid white;
+   background-color: transparent;
+   font-size: 14px;
+   padding:7px 15px ;
+}
+.downloadbutton:hover{
+    color: orangered;
+    background-color: white;
+    font-weight: 600px;
+}
+.workbutton:hover{
+    color:black;
+    background-color: white;
+    font-weight: 600px;
+}
+
+
+
+@media (max-width:1080px){
+    .topcontent-container{
+        top:200px;
+        right:10px;
+    }
+    .topcontent-container h1{
+        font-size: 20px;
+    }
+    .topcontent-container p{
+        font-size: 18px;
+        font-family:'Times New Roman', Times, serif;
+
+    }
+    .downloadbutton{
+    background-color:darkslategrey;
+    font-size: 10px;
+    padding: 5px 8px;
+    cursor: pointer;
+    border: none;
+    margin-left: 20px;
+
+    }
+    .workbutton{
+        color:white;
+   border: 1px solid white;
+   background-color: transparent;
+   font-size: 10px;
+   padding:7px 15px ;
+    }
+
+}
