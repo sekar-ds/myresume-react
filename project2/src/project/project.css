@@ -6,6 +6,9 @@
     
     
 }
+.link{
+    background-color: radial(green,black);
+}
 #con{
     border: 3px solid orangered;
     border-radius: 6px;
@@ -32,14 +35,12 @@
     margin-bottom: 10px;
 }
 .container img{
+     background-size: contain;
      width: 500px;
      height: 300px;
-     filter: opacity(0.3);
      border-radius: 8px;
 }
-.container img:hover{
-    filter: opacity(20);
-}
+
 .container a{
     color: floralwhite;
     font-size: 20px;
@@ -69,7 +70,6 @@
         .container img{
             width: 400px;
             height: 300px;
-            filter: opacity(0.3);
             display: flex;
             align-items: center;
             justify-content: center;
