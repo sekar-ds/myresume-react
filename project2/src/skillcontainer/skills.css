@@ -5,6 +5,7 @@
     height: 100vh;
     margin: 100px 0px;
 }
+
 .skilltext {
     color:orangered;
     flex:0.6;
@@ -16,6 +17,7 @@
 }
 .skillscontainer .skills-image{
     flex:0.4;
+    background-size: contain;
     text-align: center;
     margin-right: 100px;
 
