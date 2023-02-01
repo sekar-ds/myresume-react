@@ -1,5 +1,5 @@
 .top-content{
-    background:url('../assets/ima.jpg');
+    background:url('../assets/new8.jpeg');
     height: 100vh;
     padding:130px;
     background-color: transparent;
@@ -7,7 +7,8 @@
     padding-top: -290px;
     background-repeat: no-repeat;
     background-position: center;
-    width: 100vh;
+    
+    background-size: cover;
     background-size: contain;
     border-radius: 4px;
 }
