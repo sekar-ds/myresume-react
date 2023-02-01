@@ -2,10 +2,10 @@ import React from 'react';
 import { Element } from 'react-scroll';
 import '../project/project.css';
 import form from '../assets/1.gif'
-import ecommerse from '../assets/shop.jpg'
-import Bike from '../assets/bike.jpg'
-import calculator from '../assets/calculator.jpg'
-import nav from '../assets/nav.jpg'
+import ecommerse from '../assets/image1.png'
+import Bike from '../assets/bike1.jpg'
+import calculator from '../assets/cal1.jpg'
+import nav from '../assets/nav1.jpg'
 
 
 
