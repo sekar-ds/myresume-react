@@ -11,4 +11,4 @@ const Topcontainer = () => {
   )
 }
 
-export default Topcontainer
+export default Topcontainer;
