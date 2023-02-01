@@ -5,7 +5,7 @@ import '../skillcontainer/skills.css'
 const Skills = () => {
   return (
     <Element name='skills' id ='skills' className='skillscontainer'>
-        <div className='skills-image'>
+        <div className='skills-image' id="skill1">
          <img src={skillsimage}  alt="skills"/>
         </div>
         <div className='skilltext'>
