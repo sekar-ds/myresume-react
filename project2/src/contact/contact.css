@@ -12,11 +12,12 @@
    
    margin-top: 20px;
    padding: -504px;
-   filter:grayscale(50%)
+   
 }
-.container:hover{
-   filter: grayscale(0)
+#con{
+   background-image: url(../assets/new8.jpeg);
 }
+
 .container_contact h1{
    color:orangered;
    display: flex;
