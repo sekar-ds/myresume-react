@@ -15,7 +15,8 @@
    
 }
 #con{
-   background-image: url(../assets/new8.jpeg);
+   background: radial-gradient(rgb(154, 150, 181),rgba(175, 223, 53, 0));
+   background-size: cover;
 }
 
 .container_contact h1{
