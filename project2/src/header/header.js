@@ -8,7 +8,7 @@ const Header = () => {
     <div>
       <div className='header'>
         <div className='header__left'>
-            <h1> DEVELOP<span>ER</span></h1>
+            <h1> <span>DE</span>VELOP<span>ER</span></h1>
         </div>
         <div className='header__right'>
         <Link to ="About me" smooth={true} duration={500}>
@@ -29,7 +29,7 @@ const Header = () => {
             <h1>Contact</h1>
             </Link>
         
-        <span className='join'>Join with me</span>
+        <h1>Join with me</h1>
         </div>
       </div>
     </div>
